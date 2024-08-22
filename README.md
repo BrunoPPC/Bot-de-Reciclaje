@@ -1,1 +1,3 @@
-Trabajo básico de un bot informativo
+-- Trabajo básico de un bot informativo
+-- Uso del bot:
+-- -- Utilizar comando $ayuda para saber los comandos que dispone el bot
