@@ -1,3 +1,7 @@
--- Trabajo básico de un bot informativo
--- Uso del bot:
--- -- Utilizar comando $ayuda para saber los comandos que dispone el bot
+# ¿Qué es?
+
+Este trabajo es un proyecto básico de programación en bots de discord, es un bot informativo de la contaminación
+
+## Como usarlo?
+
+Para utilizar el bot, utiliza los diversos comandos presentes en el sistema ($help para más información)
